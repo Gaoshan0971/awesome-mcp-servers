@@ -358,7 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
-- <img src="https://api.digeguigui.com/favicon.ico" height="14"/> [滴个龟龟 (Digeguigui)](https://github.com/zhanghao0971/digeguigui) - Global reptile & exotic pet knowledge base. 633 species, AI identification, genetics calculator (Punnett), 12 care parameters, health symptom diagnosis, price estimation, and blockchain-anchored provenance verification. Free 9 tools 10 req/min. MCP: https://api.digeguigui.com/mcp
+- <img src="https://api.digeguigui.com/favicon.ico" height="14"/> [滴个龟龟 — Digeguigui](https://github.com/zhanghao0971/digeguigui) - Global reptile & exotic pet knowledge base. 633 species, AI species identification, genetics calculator (Punnett), 12-dimension care parameters, health symptom diagnosis, pricing estimation, and blockchain-anchored provenance verification. Free tier with 9 tools, 10 req/min. MCP endpoint: https://api.digeguigui.com/mcp
 
 <br />
 
